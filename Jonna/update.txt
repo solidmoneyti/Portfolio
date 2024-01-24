@@ -1,0 +1,5 @@
+Jonna 1.0.2
+Fixes for zoomed portfolio image on mobile
+
+Jonna 1.0.1
+Fixes for preloader issue
